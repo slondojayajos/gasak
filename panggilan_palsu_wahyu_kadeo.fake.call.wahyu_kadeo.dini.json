@@ -1,0 +1,68 @@
+{
+  "Ads": [
+      {
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=",
+      "admob_inter": "",
+      "admob_native": "",
+      "admob_inter_reward":"",
+      "startappid": "",
+      "select_ads": "ADMOB",
+      "select_backup_ads":"FACEBOOK",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner_native": "YOUR_PLACEMENT_ID",
+      "fan_native": "YOUR_PLACEMENT_ID",
+      "packagename": "panggilan_palsu_wahyu_kadeo.fake.call.wahyu_kadeo.dini",
+      "interval":10
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Belum Release",
+      "image":"",
+      "link":""
+    }
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"Wahyu X Dini 1",
+      "image_url":"file:///android_asset/gamabar1.png",
+      "video_url":"videocallkadeo1",
+      "voice_url":"suara1.mp3"
+    },
+    {
+      "id":2,
+      "name":"Wahyu X Dini 2",
+      "image_url":"file:///android_asset/gamabar2.png",
+      "video_url":"videocallkadeo2",
+      "voice_url":"suara2.mp3"
+    },
+    {
+      "id":3,
+      "name":"Wahyu X Dini 3",
+      "image_url":"file:///android_asset/gamabar3.png",
+      "video_url":"videocallkadeo3",
+      "voice_url":"suara3.mp3"
+    },
+    {
+      "id":4,
+      "name":"Wahyu X Dini 4",
+      "image_url":"file:///android_asset/gamabar4.png",
+      "video_url":"videocallkadeo4",
+      "voice_url":"suara4.mp3"
+    },
+    {
+      "id":5,
+      "name":"Wahyu X Dini 5",
+      "image_url":"file:///android_asset/gamabar5.png",
+      "video_url":"videocallkadeo5",
+      "voice_url":"suara5.mp3"
+    }
+  ]
+
+}
