@@ -1,0 +1,82 @@
+{
+  "Ads": [
+      {
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=",
+      "admob_inter": "",
+      "admob_native": "",
+      "admob_inter_reward":"",
+      "startappid": "",
+      "select_ads": "ADMOB",
+      "select_backup_ads":"FACEBOOK",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner_native": "YOUR_PLACEMENT_ID",
+      "fan_native": "YOUR_PLACEMENT_ID",
+      "packagename": "video.call.dengan.cewek.cantik.terbaru",
+      "interval":10
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Wahyu Kadeo",
+      "image":"file:///android_asset/dinikadeo.png",
+      "link":"https://play.google.com/store/apps/details?id=panggilan_palsu_wahyu_kadeo.fake.call.wahyu_kadeo.dini"
+    }
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"sayang",
+      "image_url":"file:///android_asset/1ayangbebayangbeb.png",
+      "video_url":"1videoayangbeb",
+      "voice_url":"joosssuara.mp3"
+    },
+    {
+      "id":2,
+      "name":"baby",
+      "image_url":"file:///android_asset/2ayangbebayangbeb.png",
+      "video_url":"2videoayangbeb",
+      "voice_url":"joosssuara.mp3"
+    },
+    {
+      "id":3,
+      "name":"my love",
+      "image_url":"file:///android_asset/3ayangbebayangbeb.png",
+      "video_url":"3videoayangbeb",
+      "voice_url":"joosssuara.mp3"
+    },
+    {
+      "id":4,
+      "name":"cinta",
+      "image_url":"file:///android_asset/4ayangbebayangbeb.png",
+      "video_url":"4videoayangbeb",
+      "voice_url":"joosssuara.mp3"
+    },
+    {
+      "id":5,
+      "name":"sayang",
+      "image_url":"file:///android_asset/5ayangbebayangbeb.png",
+      "video_url":"5videoayangbeb",
+      "voice_url":"joosssuara.mp3"
+    },
+    {
+      "id":6,
+      "name":"my cinta",
+      "image_url":"file:///android_asset/6ayangbebayangbeb.png",
+      "video_url":"6videoayangbeb",
+      "voice_url":"joosssuara.mp3"
+    },
+    {
+      "id":7,
+      "name":"my beb",
+      "image_url":"file:///android_asset/7ayangbebayangbeb.png",
+      "video_url":"7videoayangbeb",
+      "voice_url":"joosssuara.mp3"
+    }
+  ]
+
+}
