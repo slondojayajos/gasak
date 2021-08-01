@@ -1,0 +1,68 @@
+{
+  "Ads": [
+      {
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=",
+      "admob_inter": "",
+      "admob_native": "",
+      "admob_inter_reward":"",
+      "startappid": "",
+      "select_ads": "ADMOB",
+      "select_backup_ads":"FACEBOOK",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner_native": "YOUR_PLACEMENT_ID",
+      "fan_native": "YOUR_PLACEMENT_ID",
+      "packagename": "fake_video_call.japanese_kawai_girlfriend.japanese_video_call_simulation",
+      "interval":10
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Wahyu Kadeo",
+      "image":"file:///android_asset/dinikadeo.png",
+      "link":"https://play.google.com/store/apps/details?id=panggilan_palsu_wahyu_kadeo.fake.call.wahyu_kadeo.dini"
+    }
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"Japanese Girl",
+      "image_url":"file:///android_asset/japanang1.png",
+      "video_url":"japananv1",
+      "voice_url":"javsu.mp3"
+    },
+    {
+      "id":2,
+      "name":"Japanese Girl",
+      "image_url":"file:///android_asset/japanang2.png",
+      "video_url":"japananv2",
+      "voice_url":"javsu.mp3"
+    },
+    {
+      "id":3,
+      "name":"Japanese Girl",
+      "image_url":"file:///android_asset/japanang3.png",
+      "video_url":"japananv3",
+      "voice_url":"javsu.mp3"
+    },
+    {
+      "id":4,
+      "name":"Japanese Girl",
+      "image_url":"file:///android_asset/japanang4.png",
+      "video_url":"japananv4",
+      "voice_url":"javsu.mp3"
+    },
+    {
+      "id":5,
+      "name":"Japanese Girl",
+      "image_url":"file:///android_asset/japanang5.png",
+      "video_url":"japananv5",
+      "voice_url":"javsu.mp3"
+    }
+  ]
+
+}
