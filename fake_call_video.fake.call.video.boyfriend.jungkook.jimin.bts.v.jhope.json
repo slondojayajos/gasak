@@ -1,0 +1,75 @@
+{
+  "Ads": [
+      {
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=",
+      "admob_inter": "",
+      "admob_native": "",
+      "admob_inter_reward":"",
+      "startappid": "",
+      "select_ads": "ADMOB",
+      "select_backup_ads":"FACEBOOK",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner_native": "YOUR_PLACEMENT_ID",
+      "fan_native": "YOUR_PLACEMENT_ID",
+      "packagename": "fake_call_video.fake.call.video.boyfriend.jungkook.jimin.bts.v.jhope",
+      "interval":10
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Wahyu Kadeo",
+      "image":"file:///android_asset/dinikadeo.png",
+      "link":"https://play.google.com/store/apps/details?id=panggilan_palsu_wahyu_kadeo.fake.call.wahyu_kadeo.dini"
+    }
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"BoyFriend",
+      "image_url":"file:///android_asset/gmabarboy1.png",
+      "video_url":"boyfriendsvid1",
+      "voice_url":"jungkook.mp3"
+    },
+    {
+      "id":2,
+      "name":"BoyFriend",
+      "image_url":"file:///android_asset/gmabarboy2.png",
+      "video_url":"boyfriendsvid2",
+      "voice_url":"jungkook.mp3"
+    },
+    {
+      "id":3,
+      "name":"BoyFriend",
+      "image_url":"file:///android_asset/gmabarboy3.png",
+      "video_url":"boyfriendsvid3",
+      "voice_url":"jungkook.mp3"
+    },
+    {
+      "id":4,
+      "name":"BoyFriend",
+      "image_url":"file:///android_asset/gmabarboy4.png",
+      "video_url":"boyfriendsvid4",
+      "voice_url":"jungkook.mp3"
+    },
+    {
+      "id":5,
+      "name":"BoyFriend",
+      "image_url":"file:///android_asset/gmabarboy5.png",
+      "video_url":"boyfriendsvid5",
+      "voice_url":"jungkook.mp3"
+    },
+    {
+      "id":6,
+      "name":"BoyFriend",
+      "image_url":"file:///android_asset/gmabarboy6.png",
+      "video_url":"boyfriendsvid6",
+      "voice_url":"jungkook.mp3"
+    }
+  ]
+
+}
